@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @emmens4u
+- 👋 Hi, I’m Emmanuel Omensu Mensah
 - 👀 I’m interested in front end development
 - 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on ...
