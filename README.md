@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Emmanuel Omensu Mensah
 - 👀 I’m interested in front end development
 - 🌱 I’m currently learning ReactJs
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on reactjs/nextjs & typescript
 - 📫 How to reach me ...
 
 <!---
